@@ -1,0 +1,5 @@
+import sys 
+a=54
+b=63
+c=max(a,b) 
+print(c)
